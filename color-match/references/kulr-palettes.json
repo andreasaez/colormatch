@@ -1,0 +1,1141 @@
+{
+ "source": "Kulr, https://kulr.app/explore",
+ "licence_note": "Kulr states its palettes are free for personal and commercial use with no attribution required.",
+ "snapshot_date": "2026-10-13",
+ "selection": "Garment-friendly subset of the 195 curated palettes. Neon, cyberpunk, game, dashboard, UI-system and brand palettes are left out.",
+ "palettes": [
+  {
+   "name": "Desert Storm",
+   "colors": [
+    "#6B2D05",
+    "#B84A0A",
+    "#E07A1B",
+    "#F2A93B",
+    "#F9E2B8"
+   ],
+   "tags": [
+    "warm",
+    "earthy",
+    "sunset"
+   ]
+  },
+  {
+   "name": "Forest Floor",
+   "colors": [
+    "#1B4332",
+    "#2D6A4F",
+    "#40916C",
+    "#52B788",
+    "#B7E4C7"
+   ],
+   "tags": [
+    "nature",
+    "green",
+    "earthy"
+   ]
+  },
+  {
+   "name": "Lavender Dream",
+   "colors": [
+    "#E8D5E0",
+    "#C9A9C4",
+    "#9B72AA",
+    "#6A3D9A",
+    "#4A1A6B"
+   ],
+   "tags": [
+    "pastel",
+    "purple",
+    "soft"
+   ]
+  },
+  {
+   "name": "Cherry Blossom",
+   "colors": [
+    "#FFB7C5",
+    "#FF8FAB",
+    "#FB6F92",
+    "#E5566D",
+    "#C7253E"
+   ],
+   "tags": [
+    "pink",
+    "warm",
+    "romantic"
+   ]
+  },
+  {
+   "name": "Autumn Harvest",
+   "colors": [
+    "#582F0E",
+    "#7F4F24",
+    "#936639",
+    "#A68A64",
+    "#B6AD90"
+   ],
+   "tags": [
+    "earthy",
+    "warm",
+    "vintage"
+   ]
+  },
+  {
+   "name": "Terracotta",
+   "colors": [
+    "#D4A373",
+    "#CCD5AE",
+    "#E9EDC9",
+    "#FEFAE0",
+    "#FAEDCD"
+   ],
+   "tags": [
+    "earthy",
+    "warm",
+    "natural"
+   ]
+  },
+  {
+   "name": "Nordic Light",
+   "colors": [
+    "#F8F9FA",
+    "#E9ECEF",
+    "#DEE2E6",
+    "#CED4DA",
+    "#ADB5BD"
+   ],
+   "tags": [
+    "minimal",
+    "gray",
+    "professional"
+   ]
+  },
+  {
+   "name": "Coral Reef",
+   "colors": [
+    "#264653",
+    "#2A9D8F",
+    "#E9C46A",
+    "#F4A261",
+    "#E76F51"
+   ],
+   "tags": [
+    "nature",
+    "vibrant",
+    "warm"
+   ]
+  },
+  {
+   "name": "Cotton Candy",
+   "colors": [
+    "#FEC5BB",
+    "#FCD5CE",
+    "#FAE1DD",
+    "#F8EDEB",
+    "#E8E8E4"
+   ],
+   "tags": [
+    "pastel",
+    "soft",
+    "warm"
+   ]
+  },
+  {
+   "name": "Sage & Wisdom",
+   "colors": [
+    "#606C38",
+    "#283618",
+    "#FEFAE0",
+    "#DDA15E",
+    "#BC6C25"
+   ],
+   "tags": [
+    "earthy",
+    "natural",
+    "organic"
+   ]
+  },
+  {
+   "name": "Peach Sorbet",
+   "colors": [
+    "#FFCDB2",
+    "#FFB4A2",
+    "#E5989B",
+    "#B5838D",
+    "#6D6875"
+   ],
+   "tags": [
+    "pastel",
+    "warm",
+    "soft"
+   ]
+  },
+  {
+   "name": "Whiskey Sour",
+   "colors": [
+    "#3D0C02",
+    "#6B200C",
+    "#A0522D",
+    "#CD853F",
+    "#DEB887"
+   ],
+   "tags": [
+    "warm",
+    "earthy",
+    "vintage"
+   ]
+  },
+  {
+   "name": "Ice Cream",
+   "colors": [
+    "#F4978E",
+    "#F8AD9D",
+    "#FBC4AB",
+    "#FFDAB9",
+    "#FFE5D9"
+   ],
+   "tags": [
+    "pastel",
+    "warm",
+    "sweet"
+   ]
+  },
+  {
+   "name": "Arctic Frost",
+   "colors": [
+    "#F0F4F8",
+    "#D9E2EC",
+    "#9FB3C8",
+    "#627D98",
+    "#334E68"
+   ],
+   "tags": [
+    "cool",
+    "minimal",
+    "professional"
+   ]
+  },
+  {
+   "name": "Alpine Dawn",
+   "colors": [
+    "#2C3E50",
+    "#5D6D7E",
+    "#ABB7C5",
+    "#F0C27F",
+    "#FC5C65"
+   ],
+   "tags": [
+    "nature",
+    "mountain",
+    "contrast",
+    "warm"
+   ]
+  },
+  {
+   "name": "Granite Peak",
+   "colors": [
+    "#36363C",
+    "#52525B",
+    "#71717A",
+    "#A1A1AA",
+    "#D4D4D8"
+   ],
+   "tags": [
+    "nature",
+    "mountain",
+    "gray",
+    "minimal"
+   ]
+  },
+  {
+   "name": "Snowcapped",
+   "colors": [
+    "#1E3A5F",
+    "#4A6FA5",
+    "#8AAEE0",
+    "#C5DCF0",
+    "#F0F5FA"
+   ],
+   "tags": [
+    "nature",
+    "mountain",
+    "blue",
+    "winter"
+   ]
+  },
+  {
+   "name": "Espresso Shot",
+   "colors": [
+    "#1B0E04",
+    "#3C1E08",
+    "#6F4518",
+    "#A67B5B",
+    "#D4B896"
+   ],
+   "tags": [
+    "food",
+    "coffee",
+    "warm",
+    "earthy"
+   ]
+  },
+  {
+   "name": "Latte Art",
+   "colors": [
+    "#4B3621",
+    "#7B5B3A",
+    "#C19A6B",
+    "#E3CBA8",
+    "#FAF0E6"
+   ],
+   "tags": [
+    "food",
+    "coffee",
+    "warm",
+    "soft"
+   ]
+  },
+  {
+   "name": "Mocha Swirl",
+   "colors": [
+    "#2C1608",
+    "#5C3317",
+    "#8B6242",
+    "#C49A6C",
+    "#F5E6D3"
+   ],
+   "tags": [
+    "food",
+    "coffee",
+    "warm",
+    "gradient"
+   ]
+  },
+  {
+   "name": "Cabernet",
+   "colors": [
+    "#2B0012",
+    "#5B0028",
+    "#8B0A3A",
+    "#B83B5E",
+    "#F08A9E"
+   ],
+   "tags": [
+    "food",
+    "wine",
+    "dark",
+    "romantic"
+   ]
+  },
+  {
+   "name": "Rose Garden",
+   "colors": [
+    "#6B1D3A",
+    "#A03060",
+    "#D45087",
+    "#F093B0",
+    "#FFD6E4"
+   ],
+   "tags": [
+    "food",
+    "wine",
+    "pink",
+    "gradient"
+   ]
+  },
+  {
+   "name": "Redwood Trail",
+   "colors": [
+    "#2C1810",
+    "#4A3228",
+    "#6B4423",
+    "#8B7355",
+    "#C4A882"
+   ],
+   "tags": [
+    "nature",
+    "forest",
+    "earthy",
+    "warm"
+   ]
+  },
+  {
+   "name": "Mossy Stone",
+   "colors": [
+    "#3E4A3E",
+    "#556B2F",
+    "#6B8E23",
+    "#9ACD32",
+    "#DAE4BC"
+   ],
+   "tags": [
+    "nature",
+    "forest",
+    "earthy",
+    "organic"
+   ]
+  },
+  {
+   "name": "Coastal Fog",
+   "colors": [
+    "#94A3B8",
+    "#B0BEC5",
+    "#CFD8DC",
+    "#E0E7ED",
+    "#F1F5F9"
+   ],
+   "tags": [
+    "nature",
+    "ocean",
+    "gray",
+    "soft"
+   ]
+  },
+  {
+   "name": "Tide Pool",
+   "colors": [
+    "#1A3C40",
+    "#2C6E6F",
+    "#40A69F",
+    "#6FD5CE",
+    "#C0F0EC"
+   ],
+   "tags": [
+    "nature",
+    "ocean",
+    "teal",
+    "fresh"
+   ]
+  },
+  {
+   "name": "Spring Bloom",
+   "colors": [
+    "#F8BBD0",
+    "#F48FB1",
+    "#CE93D8",
+    "#80CBC4",
+    "#A5D6A7"
+   ],
+   "tags": [
+    "season",
+    "spring",
+    "pastel",
+    "fresh"
+   ]
+  },
+  {
+   "name": "Cherry Orchard",
+   "colors": [
+    "#FFF0F5",
+    "#FFB8D0",
+    "#FF69B4",
+    "#C71585",
+    "#8B0060"
+   ],
+   "tags": [
+    "season",
+    "spring",
+    "pink",
+    "gradient"
+   ]
+  },
+  {
+   "name": "Morning Dew",
+   "colors": [
+    "#E8F5E9",
+    "#C8E6C9",
+    "#81C784",
+    "#66BB6A",
+    "#43A047"
+   ],
+   "tags": [
+    "season",
+    "spring",
+    "green",
+    "fresh"
+   ]
+  },
+  {
+   "name": "Summer Haze",
+   "colors": [
+    "#FF6F61",
+    "#FFB347",
+    "#FFE135",
+    "#87CEEB",
+    "#4ECDC4"
+   ],
+   "tags": [
+    "season",
+    "summer",
+    "vibrant",
+    "warm"
+   ]
+  },
+  {
+   "name": "Poolside",
+   "colors": [
+    "#0277BD",
+    "#0288D1",
+    "#4FC3F7",
+    "#E1F5FE",
+    "#FFFDE7"
+   ],
+   "tags": [
+    "season",
+    "summer",
+    "blue",
+    "fresh"
+   ]
+  },
+  {
+   "name": "Fall Foliage",
+   "colors": [
+    "#8B2500",
+    "#CD6600",
+    "#DAA520",
+    "#8B7355",
+    "#556B2F"
+   ],
+   "tags": [
+    "season",
+    "fall",
+    "warm",
+    "earthy"
+   ]
+  },
+  {
+   "name": "Pumpkin Spice",
+   "colors": [
+    "#3E2723",
+    "#5D4037",
+    "#D84315",
+    "#FF8A65",
+    "#FFF3E0"
+   ],
+   "tags": [
+    "season",
+    "fall",
+    "warm",
+    "cozy"
+   ]
+  },
+  {
+   "name": "Harvest Moon",
+   "colors": [
+    "#1A0A00",
+    "#4E3524",
+    "#B8860B",
+    "#FFD700",
+    "#FFFACD"
+   ],
+   "tags": [
+    "season",
+    "fall",
+    "warm",
+    "gold"
+   ]
+  },
+  {
+   "name": "Winter Frost",
+   "colors": [
+    "#CFD8DC",
+    "#B0BEC5",
+    "#90A4AE",
+    "#607D8B",
+    "#37474F"
+   ],
+   "tags": [
+    "season",
+    "winter",
+    "cool",
+    "gray"
+   ]
+  },
+  {
+   "name": "Ice Crystal",
+   "colors": [
+    "#E3F2FD",
+    "#BBDEFB",
+    "#90CAF9",
+    "#42A5F5",
+    "#1565C0"
+   ],
+   "tags": [
+    "season",
+    "winter",
+    "blue",
+    "cool"
+   ]
+  },
+  {
+   "name": "Studio Ghibli",
+   "colors": [
+    "#5B8C5A",
+    "#8FBC8F",
+    "#C5E0B4",
+    "#F0EAD6",
+    "#87CEEB"
+   ],
+   "tags": [
+    "soft",
+    "nature",
+    "fantasy",
+    "pastel"
+   ]
+  },
+  {
+   "name": "Terracotta Sky",
+   "colors": [
+    "#C06014",
+    "#D98E73",
+    "#F0C8A8",
+    "#A8D0DB",
+    "#5E97A8"
+   ],
+   "tags": [
+    "earthy",
+    "warm",
+    "contrast",
+    "nature"
+   ]
+  },
+  {
+   "name": "Ink Wash",
+   "colors": [
+    "#0A0A0A",
+    "#2A2A2A",
+    "#5A5A5A",
+    "#9A9A9A",
+    "#E0E0E0"
+   ],
+   "tags": [
+    "minimal",
+    "gray",
+    "elegant",
+    "monochrome"
+   ]
+  },
+  {
+   "name": "Dusty Rose",
+   "colors": [
+    "#B76E79",
+    "#C4918A",
+    "#D4B2A7",
+    "#E8D5CC",
+    "#F5EDE8"
+   ],
+   "tags": [
+    "pink",
+    "soft",
+    "romantic",
+    "warm"
+   ]
+  },
+  {
+   "name": "Fashion Forward",
+   "colors": [
+    "#1A1A1A",
+    "#F5F5F0",
+    "#C8A97E",
+    "#8B7355",
+    "#E8D5C0"
+   ],
+   "tags": [
+    "ecommerce",
+    "fashion",
+    "elegant",
+    "warm"
+   ]
+  },
+  {
+   "name": "Beauty Blush",
+   "colors": [
+    "#FFF5F5",
+    "#FED7D7",
+    "#E8899E",
+    "#C05780",
+    "#6B2048"
+   ],
+   "tags": [
+    "ecommerce",
+    "beauty",
+    "pink",
+    "elegant"
+   ]
+  },
+  {
+   "name": "Organic Shop",
+   "colors": [
+    "#F9F6F0",
+    "#E8E0D0",
+    "#A8B89C",
+    "#6B8F5E",
+    "#3D5A2E"
+   ],
+   "tags": [
+    "ecommerce",
+    "organic",
+    "green",
+    "natural"
+   ]
+  },
+  {
+   "name": "Luxury Noir",
+   "colors": [
+    "#0A0A0A",
+    "#1A1A1A",
+    "#C9A96E",
+    "#D4AF37",
+    "#F5E6C8"
+   ],
+   "tags": [
+    "ecommerce",
+    "luxury",
+    "dark",
+    "gold"
+   ]
+  },
+  {
+   "name": "Editorial Serif",
+   "colors": [
+    "#1A1A1A",
+    "#333333",
+    "#8B0000",
+    "#F5F5DC",
+    "#FFFFF0"
+   ],
+   "tags": [
+    "editorial",
+    "elegant",
+    "dark",
+    "contrast"
+   ]
+  },
+  {
+   "name": "Monograph",
+   "colors": [
+    "#F8F5F0",
+    "#E8E2D8",
+    "#C0B8A8",
+    "#605848",
+    "#2A2420"
+   ],
+   "tags": [
+    "editorial",
+    "warm",
+    "elegant",
+    "minimal"
+   ]
+  },
+  {
+   "name": "Oil Painting",
+   "colors": [
+    "#2C1810",
+    "#8B4513",
+    "#CD853F",
+    "#4682B4",
+    "#F0E68C"
+   ],
+   "tags": [
+    "creative",
+    "artistic",
+    "warm",
+    "vintage"
+   ]
+  },
+  {
+   "name": "Zen Garden",
+   "colors": [
+    "#F5F0EB",
+    "#E8DDD0",
+    "#C4B7A6",
+    "#8B9E82",
+    "#556B4E"
+   ],
+   "tags": [
+    "creative",
+    "natural",
+    "soft",
+    "minimal"
+   ]
+  },
+  {
+   "name": "Clay Studio",
+   "colors": [
+    "#D4A574",
+    "#C08552",
+    "#A66C3E",
+    "#8B572A",
+    "#6E4020"
+   ],
+   "tags": [
+    "creative",
+    "earthy",
+    "warm",
+    "organic"
+   ]
+  },
+  {
+   "name": "Cloud Dancer",
+   "colors": [
+    "#F5F3EE",
+    "#E8E4DB",
+    "#D4CFC3",
+    "#B8B2A4",
+    "#9C9688"
+   ],
+   "tags": [
+    "trending2026",
+    "neutral",
+    "soft"
+   ]
+  },
+  {
+   "name": "Mocha Mousse",
+   "colors": [
+    "#A47764",
+    "#8B6050",
+    "#C49B88",
+    "#DEC4B5",
+    "#F0E2D8"
+   ],
+   "tags": [
+    "trending2026",
+    "warm",
+    "earthy"
+   ]
+  },
+  {
+   "name": "Espresso Martini",
+   "colors": [
+    "#1C110A",
+    "#3B2314",
+    "#5E3A22",
+    "#8B6242",
+    "#C8A882"
+   ],
+   "tags": [
+    "trending2026",
+    "brown",
+    "dark"
+   ]
+  },
+  {
+   "name": "Warm Limestone",
+   "colors": [
+    "#F2EDE4",
+    "#E5DDD0",
+    "#CFC3B0",
+    "#B5A68F",
+    "#968A72"
+   ],
+   "tags": [
+    "trending2026",
+    "neutral",
+    "warm"
+   ]
+  },
+  {
+   "name": "Cacao Nibs",
+   "colors": [
+    "#1E0F08",
+    "#3D2116",
+    "#6B3E2A",
+    "#A0664E",
+    "#D4997A"
+   ],
+   "tags": [
+    "trending2026",
+    "brown",
+    "earthy"
+   ]
+  },
+  {
+   "name": "Japandi",
+   "colors": [
+    "#F5F0E8",
+    "#D4C9B8",
+    "#A89880",
+    "#6B5E4D",
+    "#3D352A"
+   ],
+   "tags": [
+    "interior",
+    "minimal",
+    "warm",
+    "organic"
+   ]
+  },
+  {
+   "name": "Scandinavian",
+   "colors": [
+    "#FFFFFF",
+    "#F0EFEB",
+    "#D5D0C7",
+    "#9C9588",
+    "#4A4540"
+   ],
+   "tags": [
+    "interior",
+    "minimal",
+    "neutral",
+    "soft"
+   ]
+  },
+  {
+   "name": "Mid-Century Modern",
+   "colors": [
+    "#2B2D2C",
+    "#CE6032",
+    "#E8B75D",
+    "#5A8F7B",
+    "#3C5C6A"
+   ],
+   "tags": [
+    "interior",
+    "retro",
+    "warm",
+    "bold"
+   ]
+  },
+  {
+   "name": "Mediterranean",
+   "colors": [
+    "#FFECD2",
+    "#FCB69F",
+    "#A0522D",
+    "#0077B6",
+    "#023E8A"
+   ],
+   "tags": [
+    "interior",
+    "warm",
+    "blue",
+    "earthy"
+   ]
+  },
+  {
+   "name": "Wabi-Sabi",
+   "colors": [
+    "#F0EBE3",
+    "#E0D8CC",
+    "#C4B8A8",
+    "#8B7E6F",
+    "#5C5347"
+   ],
+   "tags": [
+    "interior",
+    "earthy",
+    "minimal",
+    "organic"
+   ]
+  },
+  {
+   "name": "Golden Vintage",
+   "colors": [
+    "#F4E5C3",
+    "#D4B483",
+    "#A67C52",
+    "#6B4423",
+    "#2E1B0E"
+   ],
+   "tags": [
+    "photography",
+    "vintage",
+    "warm",
+    "earthy"
+   ]
+  },
+  {
+   "name": "Film Kodak",
+   "colors": [
+    "#FFF8E7",
+    "#FFE4B5",
+    "#F4A460",
+    "#CD853F",
+    "#8B4513"
+   ],
+   "tags": [
+    "photography",
+    "film",
+    "warm",
+    "vintage"
+   ]
+  },
+  {
+   "name": "Film Fuji",
+   "colors": [
+    "#E8F5F0",
+    "#A8D8C8",
+    "#60B09A",
+    "#2D8A6E",
+    "#1A5240"
+   ],
+   "tags": [
+    "photography",
+    "film",
+    "cool",
+    "green"
+   ]
+  },
+  {
+   "name": "Bridal Blush",
+   "colors": [
+    "#FFFAF5",
+    "#FFEAE0",
+    "#FFD5C8",
+    "#E8A598",
+    "#C47B6F"
+   ],
+   "tags": [
+    "wedding",
+    "pink",
+    "soft",
+    "romantic"
+   ]
+  },
+  {
+   "name": "Garden Party",
+   "colors": [
+    "#F8F5F0",
+    "#D4E5D0",
+    "#A8C8A0",
+    "#7BAA70",
+    "#D4B896"
+   ],
+   "tags": [
+    "wedding",
+    "green",
+    "soft",
+    "natural"
+   ]
+  },
+  {
+   "name": "Peach Fuzz",
+   "colors": [
+    "#FFBE98",
+    "#FFD4B8",
+    "#FFE8D6",
+    "#FFF2E9",
+    "#FFFAF5"
+   ],
+   "tags": [
+    "gradient",
+    "warm",
+    "pastel",
+    "soft"
+   ]
+  },
+  {
+   "name": "Warm Gray",
+   "colors": [
+    "#F5F5F0",
+    "#E8E6E0",
+    "#C8C5BC",
+    "#8A8780",
+    "#4A4844"
+   ],
+   "tags": [
+    "monochrome",
+    "warm",
+    "neutral",
+    "minimal"
+   ]
+  },
+  {
+   "name": "Cool Steel",
+   "colors": [
+    "#F0F4F8",
+    "#D1D9E6",
+    "#99AAC0",
+    "#5C718A",
+    "#2E3F55"
+   ],
+   "tags": [
+    "monochrome",
+    "cool",
+    "professional",
+    "blue"
+   ]
+  },
+  {
+   "name": "Charcoal Silk",
+   "colors": [
+    "#F8F8F8",
+    "#D0D0D0",
+    "#888888",
+    "#444444",
+    "#1A1A1A"
+   ],
+   "tags": [
+    "monochrome",
+    "elegant",
+    "gray",
+    "professional"
+   ]
+  },
+  {
+   "name": "Bauhaus",
+   "colors": [
+    "#1A1A1A",
+    "#BE1E2D",
+    "#F2C94C",
+    "#2D9CDB",
+    "#F2F2F2"
+   ],
+   "tags": [
+    "modern",
+    "bold",
+    "design",
+    "contrast"
+   ]
+  },
+  {
+   "name": "Executive Suite",
+   "colors": [
+    "#0A1628",
+    "#1B3A5C",
+    "#3D6B99",
+    "#7CA1C4",
+    "#C8D9E6"
+   ],
+   "tags": [
+    "professional",
+    "corporate",
+    "blue",
+    "minimal"
+   ]
+  },
+  {
+   "name": "Pitch Deck",
+   "colors": [
+    "#2D3142",
+    "#4F5D75",
+    "#BFC0C0",
+    "#EF8354",
+    "#FFFFFF"
+   ],
+   "tags": [
+    "professional",
+    "modern",
+    "startup",
+    "contrast"
+   ]
+  },
+  {
+   "name": "Watercolor Wash",
+   "colors": [
+    "#E8D4C0",
+    "#D4B5A0",
+    "#C49684",
+    "#8EACBB",
+    "#6B9DAB"
+   ],
+   "tags": [
+    "illustration",
+    "soft",
+    "warm",
+    "artistic"
+   ]
+  }
+ ]
+}

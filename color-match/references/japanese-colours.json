@@ -1,0 +1,907 @@
+{
+ "source": "Core 25 from the original skill (the book set), plus colours from Wikipedia's 'Traditional colors of Japan', thinned so no two added colours sit within delta E 10 of each other.",
+ "note": "Hex values are approximate. Published sources disagree on exact values.",
+ "snapshot_date": "2026-10-13",
+ "colours": [
+  {
+   "romaji": "Ai-iro",
+   "kanji": "藍色",
+   "english": "indigo",
+   "gloss": "Indigo color",
+   "hex": "#264348",
+   "core": true,
+   "season": null
+  },
+  {
+   "romaji": "Asagi-iro",
+   "kanji": "浅葱色",
+   "english": "light blue-green",
+   "gloss": "Light blue color",
+   "hex": "#48929B",
+   "core": true,
+   "season": "summer"
+  },
+  {
+   "romaji": "Benihi",
+   "kanji": "紅緋",
+   "english": "scarlet",
+   "gloss": "Blood red",
+   "hex": "#F35336",
+   "core": true,
+   "season": null
+  },
+  {
+   "romaji": "Ebicha",
+   "kanji": "海老茶",
+   "english": "maroon brown",
+   "gloss": "Maroon",
+   "hex": "#5E2824",
+   "core": true,
+   "season": null
+  },
+  {
+   "romaji": "Fuji-iro",
+   "kanji": "藤色",
+   "english": "wisteria",
+   "gloss": "Wisteria color",
+   "hex": "#89729E",
+   "core": true,
+   "season": "summer"
+  },
+  {
+   "romaji": "Kakishibu-iro",
+   "kanji": "柿渋色",
+   "english": "persimmon brown",
+   "gloss": "Persimmon-juice color",
+   "hex": "#934337",
+   "core": true,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Karakurenai",
+   "kanji": "唐紅",
+   "english": "crimson",
+   "gloss": "Foreign crimson",
+   "hex": "#C91F37",
+   "core": true,
+   "season": "winter"
+  },
+  {
+   "romaji": "Kihada",
+   "kanji": "黄蘖",
+   "english": "soft yellow",
+   "gloss": "Amur cork tree",
+   "hex": "#F3C13A",
+   "core": true,
+   "season": "spring"
+  },
+  {
+   "romaji": "Kon",
+   "kanji": "紺",
+   "english": "deep navy",
+   "gloss": "Dark blue",
+   "hex": "#192236",
+   "core": true,
+   "season": "winter"
+  },
+  {
+   "romaji": "Kuchiba-iro",
+   "kanji": "朽葉色",
+   "english": "fallen-leaf orange",
+   "gloss": "Decaying leaves color",
+   "hex": "#D57835",
+   "core": true,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Mo'egi",
+   "kanji": "萌黄",
+   "english": "fresh green",
+   "gloss": "Fresh onion",
+   "hex": "#5B8930",
+   "core": true,
+   "season": "spring"
+  },
+  {
+   "romaji": "Momo-iro",
+   "kanji": "桃色",
+   "english": "peach pink",
+   "gloss": "Peach-colored",
+   "hex": "#F47983",
+   "core": true,
+   "season": null
+  },
+  {
+   "romaji": "Murasaki",
+   "kanji": "紫",
+   "english": "deep purple",
+   "gloss": "Purple",
+   "hex": "#4F284B",
+   "core": true,
+   "season": "winter"
+  },
+  {
+   "romaji": "Onando-iro",
+   "kanji": "御納戸色",
+   "english": "dark slate teal",
+   "gloss": "Onando color",
+   "hex": "#364141",
+   "core": true,
+   "season": null
+  },
+  {
+   "romaji": "Rikyūcha",
+   "kanji": "利休茶",
+   "english": "muted taupe",
+   "gloss": "Rikyū tea",
+   "hex": "#826B58",
+   "core": true,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Ruri-iro",
+   "kanji": "瑠璃色",
+   "english": "lapis blue",
+   "gloss": "Lapis lazuli color",
+   "hex": "#1F4788",
+   "core": true,
+   "season": "summer"
+  },
+  {
+   "romaji": "Sabi-asagi",
+   "kanji": "錆浅葱",
+   "english": "muted grey-teal",
+   "gloss": "Rusted light-blue",
+   "hex": "#6A7F7A",
+   "core": true,
+   "season": "summer"
+  },
+  {
+   "romaji": "Sakura-iro",
+   "kanji": "桜色",
+   "english": "cherry blossom pink",
+   "gloss": "Cherry blossom color",
+   "hex": "#FCC9B9",
+   "core": true,
+   "season": "spring"
+  },
+  {
+   "romaji": "Shironeri",
+   "kanji": "白練",
+   "english": "warm cream",
+   "gloss": "Unbleached silk",
+   "hex": "#FFDDCA",
+   "core": true,
+   "season": null
+  },
+  {
+   "romaji": "Sora-iro",
+   "kanji": "空色",
+   "english": "sky blue",
+   "gloss": "Sky blue color",
+   "hex": "#4D8FAC",
+   "core": true,
+   "season": "spring"
+  },
+  {
+   "romaji": "Sumi-iro",
+   "kanji": "墨色",
+   "english": "ink black",
+   "gloss": "Ink color",
+   "hex": "#27221F",
+   "core": true,
+   "season": "winter"
+  },
+  {
+   "romaji": "Tobi-iro",
+   "kanji": "鳶色",
+   "english": "dark red-brown",
+   "gloss": "Ibis-color",
+   "hex": "#4C221B",
+   "core": true,
+   "season": null
+  },
+  {
+   "romaji": "Uguisu-iro",
+   "kanji": "鶲色",
+   "english": "olive",
+   "gloss": "Bush warbler-colored",
+   "hex": "#645530",
+   "core": true,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Ukon-iro",
+   "kanji": "鬱金色",
+   "english": "turmeric",
+   "gloss": "Turmeric-colored",
+   "hex": "#E69B3A",
+   "core": true,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Yamabuki-iro",
+   "kanji": "山吹色",
+   "english": "golden yellow",
+   "gloss": "Golden yellow",
+   "hex": "#FFA400",
+   "core": true,
+   "season": null
+  },
+  {
+   "romaji": "Aijiro",
+   "kanji": "藍白",
+   "english": "ice white",
+   "gloss": "Indigo white",
+   "hex": "#EBF6F7",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Ainezumi",
+   "kanji": "藍鼠",
+   "english": "warm charcoal",
+   "gloss": "Mousy indigo",
+   "hex": "#5C544E",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Ake",
+   "kanji": "緋",
+   "english": "vermilion",
+   "gloss": "Scarlet",
+   "hex": "#CF3A24",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Akebono-iro",
+   "kanji": "曙色",
+   "english": "dawn coral",
+   "gloss": "Dawn-color",
+   "hex": "#FA7B62",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Aotake-iro",
+   "kanji": "青竹色",
+   "english": "emerald",
+   "gloss": "Green bamboo color",
+   "hex": "#006442",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Arazome",
+   "kanji": "退紅",
+   "english": "pale coral",
+   "gloss": "Washed-out crimson",
+   "hex": "#FFB3A7",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Ayame-iro",
+   "kanji": "菖蒲色",
+   "english": "deep plum",
+   "gloss": "Iris color",
+   "hex": "#763568",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Baikōcha",
+   "kanji": "梅幸茶",
+   "english": "olive taupe",
+   "gloss": "Baiko brown",
+   "hex": "#857C55",
+   "core": false,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Benifuji",
+   "kanji": "紅藤",
+   "english": "rose mauve",
+   "gloss": "Red wisteria",
+   "hex": "#BB7796",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Budōnezumi",
+   "kanji": "葡萄鼠",
+   "english": "dusty wine",
+   "gloss": "Grape mouse",
+   "hex": "#63424B",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Byakuroku",
+   "kanji": "白緑",
+   "english": "mint sage",
+   "gloss": "Whitish green",
+   "hex": "#A5BA93",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Bōtan",
+   "kanji": "牡丹",
+   "english": "raspberry",
+   "gloss": "Tree peony",
+   "hex": "#A4345D",
+   "core": false,
+   "season": "winter"
+  },
+  {
+   "romaji": "Chitosemidori",
+   "kanji": "千歳緑",
+   "english": "dark forest",
+   "gloss": "Thousand year old green",
+   "hex": "#374231",
+   "core": false,
+   "season": "winter"
+  },
+  {
+   "romaji": "Chōjizome",
+   "kanji": "丁子染",
+   "english": "toffee",
+   "gloss": "Clove-dyed",
+   "hex": "#A96232",
+   "core": false,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Chōshun-iro",
+   "kanji": "長春色",
+   "english": "faded brick",
+   "gloss": "Long spring color",
+   "hex": "#B95754",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Edocha",
+   "kanji": "江戸茶",
+   "english": "rust",
+   "gloss": "Edo brown",
+   "hex": "#A13D2D",
+   "core": false,
+   "season": "winter"
+  },
+  {
+   "romaji": "Enshūcha",
+   "kanji": "遠州茶",
+   "english": "terracotta",
+   "gloss": "Muddy brown",
+   "hex": "#CB6649",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Fujimurasaki",
+   "kanji": "藤紫",
+   "english": "amethyst",
+   "gloss": "Wisteria purple",
+   "hex": "#875F9A",
+   "core": false,
+   "season": "summer"
+  },
+  {
+   "romaji": "Fujinezumi",
+   "kanji": "藤鼠",
+   "english": "dusty lavender",
+   "gloss": "Mousy wisteria",
+   "hex": "#766980",
+   "core": false,
+   "season": "summer"
+  },
+  {
+   "romaji": "Futa'ai",
+   "kanji": "二藍",
+   "english": "dusky violet",
+   "gloss": "Dark indigo",
+   "hex": "#614E6E",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Ginshu",
+   "kanji": "銀朱",
+   "english": "brick red",
+   "gloss": "Greyed red",
+   "hex": "#BC2D29",
+   "core": false,
+   "season": "winter"
+  },
+  {
+   "romaji": "Hanaasagi",
+   "kanji": "花浅葱",
+   "english": "deep teal",
+   "gloss": "Light blue flower",
+   "hex": "#1D697C",
+   "core": false,
+   "season": "summer"
+  },
+  {
+   "romaji": "Hanaba-iro",
+   "kanji": "花葉色",
+   "english": "honey",
+   "gloss": "Floral leaf-colored",
+   "hex": "#FFB94E",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Hanada",
+   "kanji": "縹",
+   "english": "petrol blue",
+   "gloss": "Light blue silk",
+   "hex": "#044F67",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Hiwa-iro",
+   "kanji": "鶸色",
+   "english": "olive gold",
+   "gloss": "Greenfinch color",
+   "hex": "#BDA928",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Hiwamo'egi",
+   "kanji": "鶸萌黄",
+   "english": "leaf green",
+   "gloss": "Siskin sprout yellow",
+   "hex": "#7A942E",
+   "core": false,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Kaba-iro",
+   "kanji": "蒲色",
+   "english": "burnt sienna",
+   "gloss": "Cattail color",
+   "hex": "#B64925",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Kamenozoki",
+   "kanji": "瓶覗",
+   "english": "pale stone",
+   "gloss": "Inside of a bottle",
+   "hex": "#C6C2B6",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Kanzō-iro",
+   "kanji": "萱草色",
+   "english": "daylily orange",
+   "gloss": "Daylily-colored",
+   "hex": "#FF8936",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Kimirucha",
+   "kanji": "黄海松茶",
+   "english": "bronze olive",
+   "gloss": "Yellow pine-brown",
+   "hex": "#896C39",
+   "core": false,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Kinsusutake",
+   "kanji": "銀煤竹",
+   "english": "chestnut brown",
+   "gloss": "Golden-grey bamboo",
+   "hex": "#7D4E2D",
+   "core": false,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Kitsurubami",
+   "kanji": "黄橡",
+   "english": "golden tan",
+   "gloss": "Golden oak",
+   "hex": "#BB8141",
+   "core": false,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Kokiake",
+   "kanji": "深緋",
+   "english": "dark brick",
+   "gloss": "Deep scarlet",
+   "hex": "#7B3B3A",
+   "core": false,
+   "season": "winter"
+  },
+  {
+   "romaji": "Kokimurasaki",
+   "kanji": "深紫",
+   "english": "aubergine",
+   "gloss": "Deep purple",
+   "hex": "#3A243B",
+   "core": false,
+   "season": "winter"
+  },
+  {
+   "romaji": "Konkikyō",
+   "kanji": "紺桔梗",
+   "english": "midnight blue",
+   "gloss": "Navy blue bellflower",
+   "hex": "#191F45",
+   "core": false,
+   "season": "winter"
+  },
+  {
+   "romaji": "Kuwazome",
+   "kanji": "桑染",
+   "english": "ochre",
+   "gloss": "Mulberry-dyed",
+   "hex": "#C57F2E",
+   "core": false,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Kōbai-iro",
+   "kanji": "紅梅色",
+   "english": "plum blossom pink",
+   "gloss": "Red plum colored",
+   "hex": "#DB5A6B",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Masuhana-iro",
+   "kanji": "舛花色",
+   "english": "slate blue",
+   "gloss": "Ichikawa family crest blue",
+   "hex": "#4D646C",
+   "core": false,
+   "season": "summer"
+  },
+  {
+   "romaji": "Messhi",
+   "kanji": "滅紫",
+   "english": "dark plum",
+   "gloss": "Poppy purple",
+   "hex": "#3F313A",
+   "core": false,
+   "season": "winter"
+  },
+  {
+   "romaji": "Mirucha",
+   "kanji": "海松茶",
+   "english": "dark mocha",
+   "gloss": "Simmered seaweed",
+   "hex": "#4C3D30",
+   "core": false,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Mizu-iro",
+   "kanji": "水色",
+   "english": "soft aqua",
+   "gloss": "Aqua blue color",
+   "hex": "#86ABA5",
+   "core": false,
+   "season": "summer"
+  },
+  {
+   "romaji": "Mizugaki",
+   "kanji": "水がき",
+   "english": "clay rose",
+   "gloss": "Water persimmon",
+   "hex": "#B56C60",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Mushikuri-iro",
+   "kanji": "蒸栗色",
+   "english": "wheat",
+   "gloss": "Steamed chestnut color",
+   "hex": "#D3B17D",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Nakabeni",
+   "kanji": "中紅",
+   "english": "crimson rose",
+   "gloss": "Medium crimson",
+   "hex": "#C93756",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Nataneyu-iro",
+   "kanji": "菜種油色",
+   "english": "mustard",
+   "gloss": "Rapeseed oil-colored",
+   "hex": "#A17917",
+   "core": false,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Nisemurasaki",
+   "kanji": "似せ紫",
+   "english": "dark maroon",
+   "gloss": "Fake purple",
+   "hex": "#43242A",
+   "core": false,
+   "season": "winter"
+  },
+  {
+   "romaji": "Oitake-iro",
+   "kanji": "老竹色",
+   "english": "dusty olive",
+   "gloss": "Old bamboo color",
+   "hex": "#5E644F",
+   "core": false,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Rokushō",
+   "kanji": "緑青",
+   "english": "verdigris green",
+   "gloss": "Patina",
+   "hex": "#407A52",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Sabiseiji",
+   "kanji": "錆青磁",
+   "english": "grey sage",
+   "gloss": "Rusty celadon",
+   "hex": "#898A74",
+   "core": false,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Sakuranezumi",
+   "kanji": "桜鼠",
+   "english": "dusty mauve grey",
+   "gloss": "Cherry blossom mouse grey",
+   "hex": "#AC8181",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Sango-iro",
+   "kanji": "珊瑚色",
+   "english": "coral",
+   "gloss": "Coral color",
+   "hex": "#F8674F",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Seiheki",
+   "kanji": "青碧",
+   "english": "deep jade",
+   "gloss": "Blue-green",
+   "hex": "#3A6960",
+   "core": false,
+   "season": "summer"
+  },
+  {
+   "romaji": "Shinshu",
+   "kanji": "真朱",
+   "english": "cardinal red",
+   "gloss": "True red",
+   "hex": "#8F1D21",
+   "core": false,
+   "season": "winter"
+  },
+  {
+   "romaji": "Shiracha",
+   "kanji": "白茶",
+   "english": "soft tan",
+   "gloss": "White tea-colored",
+   "hex": "#C48E69",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Shironezumi",
+   "kanji": "白鼠",
+   "english": "warm greige",
+   "gloss": "White mouse",
+   "hex": "#B9A193",
+   "core": false,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Shishi-iro",
+   "kanji": "宍色",
+   "english": "salmon",
+   "gloss": "Meat-color",
+   "hex": "#F9906F",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Shu-iro",
+   "kanji": "朱色",
+   "english": "cinnabar red",
+   "gloss": "Cinnabar-color",
+   "hex": "#FF3500",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Su'ō",
+   "kanji": "蘇芳",
+   "english": "burgundy",
+   "gloss": "Sappanwood",
+   "hex": "#7E2639",
+   "core": false,
+   "season": "winter"
+  },
+  {
+   "romaji": "Tokiha-iro",
+   "kanji": "鴇羽色",
+   "english": "flamingo pink",
+   "gloss": "Ibis wing color",
+   "hex": "#F58F84",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Tokusa-iro",
+   "kanji": "木賊色",
+   "english": "pine green",
+   "gloss": "Horsetail color",
+   "hex": "#3D5D42",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Tonocha",
+   "kanji": "礪茶",
+   "english": "sienna brown",
+   "gloss": "Polished brown",
+   "hex": "#985538",
+   "core": false,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Torinoko-iro",
+   "kanji": "鳥の子色",
+   "english": "eggshell sand",
+   "gloss": "Eggshell paper-colored",
+   "hex": "#E2BE9F",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Tō'ō",
+   "kanji": "藤黄",
+   "english": "saffron yellow",
+   "gloss": "Gamboge",
+   "hex": "#FFB61E",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Umemurasaki",
+   "kanji": "梅紫",
+   "english": "berry rose",
+   "gloss": "Plum purple",
+   "hex": "#8F4155",
+   "core": false,
+   "season": "winter"
+  },
+  {
+   "romaji": "Umenezumi",
+   "kanji": "梅鼠",
+   "english": "dusty clay",
+   "gloss": "Plum-blossom mouse grey",
+   "hex": "#97645A",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Umezome",
+   "kanji": "梅染",
+   "english": "papaya",
+   "gloss": "Plum-dyed",
+   "hex": "#FA9258",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Urahayanagi",
+   "kanji": "裏柳",
+   "english": "pale khaki",
+   "gloss": "Underside of willow leaves",
+   "hex": "#BCB58C",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Usu'ao",
+   "kanji": "薄青",
+   "english": "pale sage",
+   "gloss": "Pale blue",
+   "hex": "#8C9C76",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Usu-iro",
+   "kanji": "薄色",
+   "english": "soft orchid",
+   "gloss": "Thin color",
+   "hex": "#A87CA0",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Usugaki",
+   "kanji": "薄柿",
+   "english": "peach",
+   "gloss": "Pale persimmon",
+   "hex": "#FCA474",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Usumo'egi",
+   "kanji": "淡萌黄",
+   "english": "fresh lime",
+   "gloss": "Pale young green onion",
+   "hex": "#8DB255",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Wakatake-iro",
+   "kanji": "若竹色",
+   "english": "bamboo green",
+   "gloss": "Young bamboo color",
+   "hex": "#6B9362",
+   "core": false,
+   "season": null
+  },
+  {
+   "romaji": "Yanagicha",
+   "kanji": "柳茶",
+   "english": "khaki olive",
+   "gloss": "Willow tea",
+   "hex": "#9C8A4D",
+   "core": false,
+   "season": "autumn"
+  },
+  {
+   "romaji": "Yanagizome",
+   "kanji": "柳染",
+   "english": "sage green",
+   "gloss": "Willow-dyed",
+   "hex": "#8C9E5E",
+   "core": false,
+   "season": "spring"
+  },
+  {
+   "romaji": "Ōtan",
+   "kanji": "黄丹",
+   "english": "blaze orange",
+   "gloss": "Ochre",
+   "hex": "#FF4E20",
+   "core": false,
+   "season": null
+  }
+ ]
+}
