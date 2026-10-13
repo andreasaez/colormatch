@@ -1,5 +1,7 @@
 # Color match
 
+![Color match: share an item, get matching traditional Japanese colours](assets/colormatch.gif)
+
 A fun little Claude skill to help you match outfits.
 
 You have a mustard jumper, a pair of dusty rose trousers, or a bag in a colour you love, and no idea what to wear with it. Show Claude a screenshot or describe the colour, and Color match suggests 3 to 5 colours that go with it. Each one comes with its traditional Japanese name, an English name, and a hex code.
